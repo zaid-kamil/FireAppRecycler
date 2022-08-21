@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "580315586899",
+    "project_id": "fire-demo-kotlin21",
+    "storage_bucket": "fire-demo-kotlin21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580315586899:android:2b0acaf58546d7745301a6",
+        "android_client_info": {
+          "package_name": "com.digipod.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580315586899-o40ptnvmc9g2a5fao01nldj5q11pjtk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARvLIOLLb5ZmZgSeg4XaG7-CgVEto7Ets"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580315586899-o40ptnvmc9g2a5fao01nldj5q11pjtk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580315586899:android:83eb384305babfad5301a6",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580315586899-o40ptnvmc9g2a5fao01nldj5q11pjtk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARvLIOLLb5ZmZgSeg4XaG7-CgVEto7Ets"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580315586899-o40ptnvmc9g2a5fao01nldj5q11pjtk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580315586899:android:a8ac5977211d8fc55301a6",
+        "android_client_info": {
+          "package_name": "com.podium.jokescloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580315586899-75vbr4qirul3po56q7k81km4tio7dpan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.podium.jokescloud",
+            "certificate_hash": "0528db175933cca67afacaa0935dcfab05101e32"
+          }
+        },
+        {
+          "client_id": "580315586899-r8ba76qld7mtc79fqq77p20v3a9hvija.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.podium.jokescloud",
+            "certificate_hash": "c379117ff4427a74f2964ba83fa54b51088cfd39"
+          }
+        },
+        {
+          "client_id": "580315586899-o40ptnvmc9g2a5fao01nldj5q11pjtk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARvLIOLLb5ZmZgSeg4XaG7-CgVEto7Ets"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580315586899-o40ptnvmc9g2a5fao01nldj5q11pjtk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
