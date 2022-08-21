@@ -1,10 +1,10 @@
 package com.digipod.fireapp
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.digipod.fireapp.data.DataSource
 import com.digipod.fireapp.databinding.FragmentFirstBinding
@@ -20,7 +20,7 @@ class FirstFragment : Fragment() {
     private val binding get() = _binding!!
 
     // create a field for firebase firestore
-    val db = Firebase.firestore
+    private val db = Firebase.firestore
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
